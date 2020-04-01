@@ -1,7 +1,7 @@
 # Auto_repo
 Liam Esteffe
 
-__Usage__ : sh launch .sh __[NAME_REPO]__
+__Usage__ : sh launch .sh __[NAME_REPO][../PATH]__
 
 __PLEASE READ : CHANGE ACL BASIC BY YOUR ACL IF YOU WANT TO USE AUTO REPO__
 
