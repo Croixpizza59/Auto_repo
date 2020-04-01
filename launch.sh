@@ -6,8 +6,6 @@ cp -r include ./$1
 cp -r Makefile ./$1
 
 cd ../
-mkdir test1
-mkdir test2
-rm -rv test1
+rm -rv auto_repo
 
 echo "FINISHED\n"
