@@ -6,6 +6,6 @@ cp -r include ./$1
 cp -r Makefile ./$1
 
 cd ../
-rm -rv auto_repo
+rm -rv auto_project
 
 echo "FINISHED\n"
