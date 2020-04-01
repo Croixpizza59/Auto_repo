@@ -1,0 +1,28 @@
+blih -u liam.esteffe@epitech.eu repository create $1
+echo -e "Default \e[95mLight magenta"
+echo " _______  _______  _______  _______ _________ _______    _______  _______  _______  _______ "
+echo "(  ____ \(  ____ )(  ____ \(  ___  )\__   __/(  ____ \  (  ____ )(  ____ \(  ____ )(  ___  )"
+echo "| (    \/| (    )|| (    \/| (   ) |   ) (   | (    \/  | (    )|| (    \/| (    )|| (   ) |"
+echo "| |      | (____)|| (__    | (___) |   | |   | (__      | (____)|| (__    | (____)|| |   | |"
+echo "| |      |     __)|  __)   |  ___  |   | |   |  __)     |     __)|  __)   |  _____)| |   | |"
+echo "| |      | (\ (   | (      | (   ) |   | |   | (        | (\ (   | (      | (      | |   | |"
+echo "| (____/\| ) \ \__| (____/\| )   ( |   | |   | (____/\  | ) \ \__| (____/\| )      | (___) |"
+echo "(_______/|/   \__/(_______/|/     \|   )_(   (_______/  |/   \__/(_______/|/       (_______)"
+echo -e "Default \e[39mDefault"
+blih -u liam.esteffe@epitech.eu repository setacl $1 ramassage-tek r
+echo -e "Default \e[34mBlue"
+echo "      _____         _____    ____        "
+echo "  ___|\    \    ___|\    \  |    |       "
+echo " /    /\    \  /    /\    \ |    |       "
+echo "|    |  |    ||    |  |    ||    |       "
+echo "|    |__|    ||    |  |____||    |  ____ "
+echo "|    .--.    ||    |   ____ |    | |    |"
+echo "|    |  |    ||    |  |    ||    | |    |"
+echo "|____|  |____||\ ___\/    /||____|/____/|"
+echo "|    |  |    || |   /____/ ||    |     ||"
+echo "|____|  |____| \|___|    | /|____|_____|/"
+echo "  \(      )/     \( |____|/   \(    )/   "
+echo "   '      '       '   )/       '    '    "
+echo -e "Default \e[39mDefault"
+blih -u liam.esteffe@epitech.eu repository getacl $1
+git clone git@git.epitech.eu:/liam.esteffe@epitech.eu/$1
