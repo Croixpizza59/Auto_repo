@@ -6,5 +6,5 @@ cp -r include ./$1
 cp -r Makefile ./$1
 
 cp -r $1 ../$2
-rm $1
+sudo rm -rv $1
 echo "FINISHED\n"
