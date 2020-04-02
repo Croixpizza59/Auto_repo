@@ -1,6 +1,6 @@
 ##
 ## EPITECH PROJECT, 2020
-## PSU_bstetris_2019
+## makefile
 ## File description:
 ## Makefile
 ##
